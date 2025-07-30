@@ -5,4 +5,4 @@
 💻 I'm learning to code and sharing as I go
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=py,latex,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,latex,html,css)](https://skillicons.dev)
