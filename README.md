@@ -4,5 +4,5 @@
 👀 I'm curious about AI, bias, and ethics  
 💻 I'm learning to code and sharing as I go
 
-## Tools
+## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,latex,html,css)](https://skillicons.dev)
