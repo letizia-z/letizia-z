@@ -4,5 +4,7 @@
 👀 I'm curious about AI, bias, and ethics  
 💻 I'm learning to code and sharing as I go
 
+![what?](https://www.codewars.com/users/letizia-z/badges/micro)
+
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,latex,html,css)](https://skillicons.dev)
