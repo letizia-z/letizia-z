@@ -10,6 +10,6 @@
 - [Surgical Procedural Classification](https://github.com/letizia-z/surgical-text-classifier-workshop) *Logistic Regression model built for classifying procedural surgical knowledge*
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=latex,python,md,html,css,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,python,md,html,css)](https://skillicons.dev)
 
 ![what?](https://www.codewars.com/users/letizia-z/badges/micro)
